@@ -26,3 +26,5 @@ Build and run docker instance:
  docker-compose build
  docker-compose up
 ```
+
+Create file ".env" and fill it with data like in ".env-example" file.
